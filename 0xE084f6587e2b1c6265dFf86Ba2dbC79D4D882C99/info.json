@@ -1,0 +1,10 @@
+    "name": "antiquswap",
+    "website": "https://antiqueswap.finance",
+    "description": "BUSD is a stablecoin issued by Paxos in partnership with Binance.",
+    "explorer": "https://bscscan.com/token/0xE084f6587e2b1c6265dFf86Ba2dbC79D4D882C99",
+    "type": "BEP20",
+    "symbol": "AQE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xE084f6587e2b1c6265dFf86Ba2dbC79D4D882C99"
+}
